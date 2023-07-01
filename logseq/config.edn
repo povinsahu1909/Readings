@@ -340,7 +340,7 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-timetracking? false
- :publishing/all-pages-public? false
+ :publishing/all-pages-public? true
  :journal/page-title-format "MMMM do, yyyy"
  :graph/settings {:journal? false, :excluded-pages? false, :builtin-pages? false, :orphan-pages? false}
 
