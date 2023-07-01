@@ -1,0 +1,2 @@
+- This page contains all the pointer to the tech blogs summary
+-
